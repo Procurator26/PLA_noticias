@@ -81,7 +81,6 @@ hours_recent: 24
 # 📧 A qué correos se enviará el resumen.
 # Puedes añadir más poniendo cada uno en una línea nueva con "-".
 to_emails:
-  - "jrodrigo@pla-spain.com"
   - "mgarana@pla-spain.com"
   - "jvazquez@pla-spain.com"
 
