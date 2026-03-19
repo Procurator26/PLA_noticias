@@ -202,7 +202,7 @@ sources:
     max_to_fetch: 50
 
     # COMUNIDAD_VALENCIANA
-   - name: "LAS_PROVINCIAS_CV"
+  - name: "LAS_PROVINCIAS_CV"
     url: "https://www.lasprovincias.es/"
     max_to_fetch: 50
   
