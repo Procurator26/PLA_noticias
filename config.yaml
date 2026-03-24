@@ -81,8 +81,7 @@ hours_recent: 24
 # 📧 A qué correos se enviará el resumen.
 # Puedes añadir más poniendo cada uno en una línea nueva con "-".
 to_emails:
-  - "mgarana@pla-spain.com"
-  - "jvazquez@pla-spain.com"
+    - "jvazquez@pla-spain.com"
 
 # 🌐 Medios o páginas de donde se sacan las noticias.
 # Puedes añadir o quitar medios fácilmente copiando un bloque.
@@ -99,7 +98,7 @@ sources:
   
   - name: "CINCO_DIAS"
     url: "https://cincodias.elpais.com/"
-    max_to_fetch: 50
+    max_to_fetch: 400
 
   - name: "EL_CONFIDENCIAL"
     url: "https://www.elconfidencial.com/"
